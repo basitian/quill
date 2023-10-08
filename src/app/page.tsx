@@ -85,7 +85,7 @@ export default function Home() {
 							Start chatting in minutes
 						</h2>
 						<p className='mt-4 text-lg text-gray-600'>
-							Chatting to your PDF files have never been easier than with quill
+							Chatting to your PDF files has never been easier than with quill
 						</p>
 					</div>
 				</div>
