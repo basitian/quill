@@ -80,7 +80,7 @@ const Dashboard = ({ subscriptionPlan }: DashboardPageProps) => {
 
 									<div className='flex items-center gap-2'>
 										<MessageSquare className='h-4 w-4' />
-										{5}
+										{file._count.Message}
 									</div>
 
 									<Button
